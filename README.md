@@ -37,6 +37,7 @@ Sistem iki ana düğümden oluşur:
     * **MQ-2:** Yanıcı Gaz ve Duman Sensörü
     * **LM35:** Analog Sıcaklık Sensörü
     * Alarm Sistemi (Buzzer & RGB LED)
+    * gorseller/devre.jpg
 
 ---
 
@@ -57,11 +58,16 @@ Sistem iki ana düğümden oluşur:
 
 ### Web Dashboard (.NET MVC)
 Sistemin genel durumunun, anlık gaz/sıcaklık verilerinin ve giriş-çıkış loglarının takip edildiği yönetim paneli.
-*(Buraya rapordaki Şekil 1 veya Şekil 2 görselini ekleyebilirsin)*
+gorseller/ana.jpg
+gorseller/kartlar.jpg
+gorseller/girisler.jpg
+gorseller/afetler.jpg
+
 
 ### Mobil Uygulamalar
 * **Blynk:** Ev sahibinin alarm durumunu gördüğü ekran.
 * **Kart Yöneticisi:** Yöneticinin yeni kiracı/personel kartı tanımladığı arayüz.
+gorseller/appinventor.jpg
 
 ---
 
