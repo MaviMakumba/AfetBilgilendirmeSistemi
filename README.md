@@ -66,6 +66,8 @@ Sistemin genel durumunun, anlık gaz/sıcaklık verilerinin ve giriş-çıkış 
 
 ### Mobil Uygulamalar
 * **Blynk:** Ev sahibinin alarm durumunu gördüğü ekran.
+ ![Blynk](gorseller/blynk.jpg)
+
 * **Kart Yöneticisi:** Yöneticinin yeni kiracı/personel kartı tanımladığı arayüz.
 ![AppInventor](gorseller/appinventor.jpg)
 
